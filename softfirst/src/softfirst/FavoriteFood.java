@@ -3,10 +3,11 @@ package softfirst;
 public class FavoriteFood {
 
 	public static void main(String[] args) {
-		// TODO �����������ꂽ���\�b�h�E�X�^�u
-		System.out.println("���̍D���ȐH�ו��́A�I�����C�X�ł��B");
-		System.out.println("�ォ�痑���̂���^�C�v�̃I�����C�X���D���ŁA�ӂ�ӂ�̗����ō��ɔ��������ł��B");
-		System.out.println("�ӂ�ӂ�̗��ƌ����΁A������������V�Ôт��D���ł��B");
+		// TODO 自動生成されたメソッド・スタブ
+		System.out.println("私の好きな食べ物は、オムライスです。");
+		System.out.println("上から卵をのせるタイプのオムライスが好きで、ふわふわの卵が最高に美味しいです。");
+		System.out.println("ふわふわの卵と言えば、だし巻き卵や天津飯も好きです。");
+		System.out.println("ちなみにオムライスとオムレツの違いは、卵の中にご飯が入っているかいないかです。");
 	}
 
 }
